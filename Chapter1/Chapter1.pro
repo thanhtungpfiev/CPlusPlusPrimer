@@ -4,6 +4,12 @@ SUBDIRS += \
     Exercise1-10 \
     Exercise1-11 \
     Exercise1-12 \
+    Exercise1-15 \
+    Exercise1-16 \
+    Exercise1-19 \
+    Exercise1-20 \
+    Exercise1-21 \
+    Exercise1-22 \
     Exercise1-3 \
     Exercise1-4 \
     Exercise1-5 \
@@ -12,5 +18,6 @@ SUBDIRS += \
     Exercise1-9 \
     FirstSimpleProgram \
     ForStatement \
+    IfStatement \
     ReadingAnUnknownNumberOfInputs \
     WhileStatement
