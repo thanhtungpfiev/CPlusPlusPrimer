@@ -1,6 +1,7 @@
 TEMPLATE = subdirs
 
 SUBDIRS += \
+    AFirstLookAtMemberFunctions \
     Exercise1-10 \
     Exercise1-11 \
     Exercise1-12 \
@@ -10,6 +11,7 @@ SUBDIRS += \
     Exercise1-20 \
     Exercise1-21 \
     Exercise1-22 \
+    Exercise1-23 \
     Exercise1-3 \
     Exercise1-4 \
     Exercise1-5 \
@@ -20,4 +22,5 @@ SUBDIRS += \
     ForStatement \
     IfStatement \
     ReadingAnUnknownNumberOfInputs \
+    TheBookstoreProgram \
     WhileStatement
