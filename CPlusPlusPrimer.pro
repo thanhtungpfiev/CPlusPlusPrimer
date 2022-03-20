@@ -1,4 +1,5 @@
 TEMPLATE = subdirs
 
 SUBDIRS += \
-    Chapter1
+    Chapter1 \
+    Chapter2
