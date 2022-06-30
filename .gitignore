@@ -5,3 +5,5 @@
 /HelloWorld/HelloWorld.pro.user.68bbbac
 /HelloWorld/HelloWorld.pro.user.a266d9e
 *.exe
+/CMakeExample/build/
+/exploringBB-version2/

@@ -2,8 +2,9 @@
 #define DOG_H
 
 #include "../Food/Flesh.h"
+#include "Animal.h"
 
-class Dog
+class Dog : public Animal
 {
 public:
     Dog();
