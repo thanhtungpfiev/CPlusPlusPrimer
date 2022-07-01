@@ -7,3 +7,4 @@
 *.exe
 /CMakeExample/build/
 /exploringBB-version2/
+/OOP/build/
