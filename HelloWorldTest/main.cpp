@@ -158,5 +158,4 @@ int main(int argc, char **argv)
     threadObj.join();
     std::cout << "Exiting from Main Thread" << std::endl;
     return 0;
-    return 0;
 }
